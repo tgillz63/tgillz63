@@ -4,14 +4,14 @@ Sports analytics, mostly baseball. M.S. in Business Analytics from Notre Dame wi
 
 I build models that answer the questions front offices and performance staffs actually ask. Who is ready for the next level. Which workloads show up before an injury. What the numbers say when the eye test is split. Before I came to analytics I spent a long time around the game as a player, coach, umpire, and sportswriter, and that shapes how I frame problems and how I explain results to people who don't want a lecture on gradient boosting.
 
-Currently looking for work in baseball operations, athletic performance, and sports research.
+Currently looking for full time work in any sports role. 
 
 ---
 
 ## Projects
 
 **[Pitcher Arm Injury Risk](https://github.com/tgillz63/Pitcher-Arm-Injury-Risk)**
-Predicting whether an MLB pitcher goes down with an arm injury in the next 14 days, using outing-level features, rolling workload windows, and biographical data. I could not find published work targeting this specific prediction window, so most of the feature engineering had to be built from scratch. SHAP output turns the predictions into per-pitcher risk drivers a staff could act on.
+Predicting whether an MLB pitcher goes down with an arm injury in the next 14 days, using outing-level features, rolling workload windows, and biographical data. I could not find published work targeting this specific prediction window. SHAP output turns the predictions into per-pitcher risk drivers a staff could act on.
 `Python` `LightGBM` `Optuna` `SHAP`
 
 **[Minor League Readiness](https://github.com/tgillz63/Minor-League-Readiness-Project)**
@@ -46,8 +46,7 @@ Supervised binary classification on anonymized patient health data. Non-sports, 
 
 ## Currently working on
 
-Research into whether "pitching off" in NCAA tournament regionals actually improves a team's odds of advancing. Two tracks: propensity score matching in R to isolate the effect from selection bias, and a Monte Carlo double-elimination bracket simulator in Python to test it causally. The hard part is that the teams who pitch off are not a random sample, which is most of the problem.
-
+Project exploring whether "pitching off"(saving your ace for game 2) in NCAA tournament regionals actually improves a team's odds of advancing. Two tracks: propensity score matching in R to isolate the effect from selection bias, and a Monte Carlo double-elimination bracket simulator in Python to test it causally. The hard part is that the teams who pitch off are not a random sample, which is most of the problem. 
 ---
 
 ## Contact
