@@ -1,4 +1,4 @@
-# Tommy Gillan
+# Thomas Gillan
 
 Sports analytics, mostly baseball. M.S. in Business Analytics from Notre Dame with a Sports Analytics concentration.
 
