@@ -2,7 +2,7 @@
 
 Sports analytics, mostly baseball. M.S. in Business Analytics from Notre Dame with a Sports Analytics concentration.
 
-I build models that answer the questions front offices and performance staffs actually ask. Who is ready for the next level? Which workloads show up before an injury? What the numbers say when the eye test is split? Before I came to analytics I spent a long time around the game as a player, coach, umpire, and sportswriter, and that shapes how I frame problems and how I explain results to people who don't want a lecture on gradient boosting.
+I build models that answer the questions front offices and performance staffs actually ask. Who is ready for the next level? Which workloads show up before an injury? What do the numbers say when the eye test is split? Before I came to analytics I spent a long time around the game as a player, coach, umpire, and sportswriter, and that shapes how I frame problems and how I explain results to people who don't want a lecture on gradient boosting.
 
 Currently looking for full time work in any field. 
 
