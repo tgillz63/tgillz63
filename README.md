@@ -48,10 +48,10 @@ Supervised binary classification on anonymized patient health data. Non-sports, 
 
 Project exploring whether "pitching off"(saving your ace for game 2) in NCAA tournament regionals actually improves a team's odds of advancing. Two tracks: propensity score matching in R to isolate the effect from selection bias, and a Monte Carlo double-elimination bracket simulator in Python to test it causally. The hard part is that the teams who pitch off are not a random sample, which is most of the problem. 
 ---
-Project Analyzing Sports Card Markets Including recent sales, athlete statistical and sentiment analysis, as well as a card portfolio tracker.
+**Project Analyzing Sports Card Markets Including recent sales, athlete statistical and sentiment analysis, as well as a card portfolio tracker.**
 ---
-Project Generating weekly fake newspaper articles, a fake 5 minute podcast, upcoming opponent scouting report, and recruiting board analysis
-for your personal College Football 27's dynasty league. 
+**Project Generating weekly fake newspaper articles, a fake 5 minute podcast, upcoming opponent scouting report, and recruiting board analysis
+for your personal College Football 27's dynasty league. **
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/tommy-gillan/) · thomasgillan63@gmail.com
