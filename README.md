@@ -51,7 +51,7 @@ Project exploring whether "pitching off"(saving your ace for game 2) in NCAA tou
 **Project Analyzing Sports Card Markets Including recent sales, athlete statistical and sentiment analysis, as well as a card portfolio tracker.**
 ---
 **Project Generating weekly fake newspaper articles, a fake 5 minute podcast, upcoming opponent scouting report, and recruiting board analysis
-for your personal College Football 27's dynasty league.**
+for your personal College Football 27 dynasty league.**
 
 ## Contact
 
